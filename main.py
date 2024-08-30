@@ -169,7 +169,7 @@ class Application:
         self.ax_freq.set_xlabel("Frequency (Hz)")
         self.ax_freq.set_ylabel("Magnitude")
         self.ax_freq.set_xlim(20, RATE / 2)
-        self.ax_freq.set_ylim(0, 1000)
+        self.ax_freq.set_ylim(0, 10000)
         self.ax_freq.grid(True)
 
     def __control_instructions_section(self) -> None:
