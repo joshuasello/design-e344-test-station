@@ -1,0 +1,11 @@
+{
+    "reference_voltage": 1,
+    "stereo_to_mono_left_output_frequency": 1000,
+    "stereo_to_mono_right_output_frequency": 2000,
+    "stereo_to_mono_output_peak": 1,
+    "pre_amplifier_output_frequency": 1000,
+    "pre_amplifier_output_peak": 1,
+    "tone_control_low_output_frequency": 100,
+    "tone_control_mid_output_frequency": 1000,
+    "tone_control_high_output_frequency": 10000
+}
